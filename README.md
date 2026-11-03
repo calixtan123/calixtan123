@@ -24,7 +24,7 @@ Designed and developed an **XGBoost-based ML positioning system** spanning data-
 
 *Professional work; proprietary code and customer data are not published.*
 
-### Surgical site infection risk prediction · MSc research
+### Surgical site infection risk prediction · Prelego AI
 
 Developed static pre-operative and dynamic post-operative risk prediction models using electronic health record data, with feature engineering, imbalanced-learning techniques, model interpretation, and evaluation of discrimination and calibration.
 
